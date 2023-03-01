@@ -5,3 +5,4 @@
 5. Ad products from SPP
 6. Increment and Decrement the Product
 7. Add products to cart from the Recommended ProductSection
+8. Add the Donation amount to cart from Donation section
