@@ -3,4 +3,5 @@
 3. Navigate yo cart page
 4. Add products from MPP
 5. Ad products from SPP
-6. Add products to cart from the Recommended Section
+6. Increment and Decrement the Product
+7. Add products to cart from the Recommended ProductSection
