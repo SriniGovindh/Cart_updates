@@ -1,0 +1,4 @@
+1. Login on to the application
+2. Enter the user Name and Password
+3. Navigate yo cart page
+4. Add products to cart from the Recommended Section
